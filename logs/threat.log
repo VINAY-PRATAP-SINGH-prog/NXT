@@ -1,0 +1,14 @@
+[07:33:26][MEDIUM]File Deleted/home/crimson/testfolder/check.txt
+[07:33:26][MEDIUM]File Deleted/home/crimson/testfolder/hello.txt
+[07:33:26][MEDIUM]File Deleted/home/crimson/testfolder/hel.txt
+[07:33:31][INFO]File Created/home/crimson/testfolder/hello.txt
+[07:33:31][LOW]File Modified/home/crimson/testfolder/hello.txt
+[05:47:25][INFO]File Created/home/crimson/testfolder/m1.txt
+[05:47:25][LOW]File Modified/home/crimson/testfolder/m1.txt
+[05:47:58][LOW]File Modified/home/crimson/testfolder/m1.txt
+[05:48:16][HIGH]File Renamed/home/crimson/testfolder/m1.txt -> /home/crimson/testfolder/r.txt
+[05:48:23][MEDIUM]File Deleted/home/crimson/testfolder/r.txt
+[05:48:41][INFO]File Created/home/crimson/testfolder/h.dll
+[05:48:41][HIGH]Suspicious File/home/crimson/testfolder/h.dll
+[05:48:41][LOW]File Modified/home/crimson/testfolder/h.dll
+[05:48:52][MEDIUM]File Deleted/home/crimson/testfolder/h.dll

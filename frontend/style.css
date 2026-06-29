@@ -1,0 +1,71 @@
+body{
+    background: black;
+    color:white;
+    font-family: Arial;
+    text-align: center;
+}
+.navbar{
+    border-bottom: 2px solid #00ff88;
+    padding: 15x;
+    margin-bottom: 20px;
+}
+
+.cards{
+    border: 1px solid #00ff88;
+    border-radius: 12px;
+    padding: 20px;
+    min-width: 150px;
+
+    box-shadow: 0 0 15px #00ff88;
+    transition: 0.3s;
+}
+
+
+.cards:hover{
+    transform: scale(1.05);
+    box-shadow: 0 0 30px #00ff88;
+}
+
+.container{
+    display: flex;
+    gap: 20x;
+    padding: 20px;
+    justify-content: center;
+}
+.status{
+    border: 1px solid #00ff88;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+    
+}
+.threat{
+    border-left: 4px solid #00ff88;
+    padding-left: 10px;
+    margin-bottom: 20px;
+
+    max-height: 250px;
+    overflow-y: auto;
+}
+
+.acti h2{
+    text-align: left;
+    margin: 25px;
+    
+}
+.acti ul{
+   text-align: left;
+    
+}
+button{
+    background: black;
+    color: #00ff88;
+    border: 1px solid #00ff88;
+    padding: 10x 20px;
+    border-radius: 8px;
+}
+button:hover{
+    background: #00ff88;
+    color: black;
+}
